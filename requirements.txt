@@ -36,7 +36,6 @@ pillow==12.1.0
 propcache==0.4.1
 protobuf==6.33.4
 pyarrow==22.0.0
-PyAudio==0.2.14
 pydantic==2.12.5
 pydantic_core==2.41.5
 pydeck==0.9.1
@@ -63,3 +62,4 @@ urllib3==2.6.3
 watchdog==6.0.0
 wheel==0.45.1
 yarl==1.22.0
+
